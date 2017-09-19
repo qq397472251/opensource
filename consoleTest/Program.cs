@@ -9,7 +9,7 @@ namespace consoleTest
     {
         static void Main(string[] args)
         {
-            Console.Write(" easyStudy2017-9-19 16:24:34");
+            Console.Write("easyStudy 2017-9-19 16:24:34");
             Console.Read();
         }
     }
